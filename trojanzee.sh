@@ -1,4 +1,6 @@
 #!/bin/bash
+Apa mau reedit?izin dlu goblok awas kau kalo asal reedit gua sumpahin lumpuh kakilu selamanya!!!
+
 clear
 echo -e "\e[91m"
 figlet "Z-TX TOOLS"
